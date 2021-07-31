@@ -1,6 +1,7 @@
 ﻿# LukeLIN-web
  
 [![Luke's github stats](https://github-readme-stats.vercel.app/api?username=LukeLIN-web)](https://github.com/LukeLIN-web/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeLIN-web&layout=compact&hide=html,c&theme=radical)](https://github.com/LukeLIN-web)
 
 <!--
 **LukeLIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
