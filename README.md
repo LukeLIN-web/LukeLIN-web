@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 Plus, I am big fan of rowing and Ultimate Frisbee. Following is a picture taken from *bing*.
 
-![](https://tse1-mm.cn.bing.net/th/id/R-C.bc7f6808a00500ef64fdb093058bf470?rik=TuYSlAsK8PArUg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fimages%2f20171029%2fd1288bdee04249e48223795963399f4c.jpeg&ehk=XrjYNCUQ5%2fwzfcBgWmDD8uaPRtuWcjEg%2bxRjUZ56QKE%3d&risl=&pid=ImgRaw)
+![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp1.itc.cn%2Fimages01%2F20201019%2F3bdac6cc1f8642e09c0b38a075a53a12.jpeg&refer=http%3A%2F%2Fp1.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1631586780&t=917e6857b7d0cd148208946c17ba3ee4)
