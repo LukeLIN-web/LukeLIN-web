@@ -19,8 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 I entered  [Zhejiang University](https://www.zju.edu.cn/) in 2018. ⚡ My interests include distrubution machine learning, Reinforcement learning.
-
-Plus, I am big fan of rowing and Ultimate Frisbee. Following is a picture taken from *bing*.
-
-![](https://github.com/LukeLIN-web/LukeLIN-web/blob/main/%E8%B5%9B%E8%89%87.jpg?raw=true)
+🌱 I entered  [Zhejiang University](https://www.zju.edu.cn/) in 2018. ⚡ My interests include distrubution machine learning, Reinforcement learning.Plus, I am big fan of rowing and Ultimate Frisbee. 
