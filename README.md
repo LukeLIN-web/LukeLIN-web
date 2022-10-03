@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 Hi :)
 
-🌱 I obtaind my bachelor degree from  [Zhejiang University](https://www.zju.edu.cn/) in 2022. ⚡ My interests include GNN.Plus, I am big fan of rowing and Ultimate Frisbee. Welcome to my website: https://lukelin-web.github.io/
+🌱 I obtained my bachelor degree from  [Zhejiang University](https://www.zju.edu.cn/) in 2022. ⚡ My interests include GNN accelerating.Plus, I am big fan of rowing and Ultimate Frisbee. Welcome to my website: https://lukelin-web.github.io/
