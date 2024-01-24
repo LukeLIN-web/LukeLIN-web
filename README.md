@@ -2,6 +2,7 @@
  
 [![Luke's github stats](https://github-readme-stats.vercel.app/api?username=LukeLIN-web)](https://github.com/LukeLIN-web/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=LukeLIN-web&color=orange&style=flat-square)
 
 <!--
 **LukeLIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
