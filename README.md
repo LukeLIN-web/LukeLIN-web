@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 Hi :)
 
-🌱 I obtained my bachelor of engineering degree from  [Zhejiang University](https://www.zju.edu.cn/) in 2022. ⚡  I am a big fan of Rowing and Ultimate Frisbee.
+🌱 About me
+Hello & Welcome!:) I earned my MSCS degree @ [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en) in 2023 and my bachelor of engineering @ [Zhejiang University](https://www.zju.edu.cn/) in 2022. ⚡  I am a big fan of Rowing and Ultimate Frisbee.
