@@ -23,4 +23,4 @@ Hi :)
 
 🌱 About me
 
-Hello & Welcome!:) I earned my MSCS degree @ [KAUST](https://www.kaust.edu.sa/en) in 2023 and my bachelor @ [Zhejiang University](https://www.zju.edu.cn/) in 2022. ⚡  I am a big fan of Ultimate Frisbee.
+Hello & Welcome!:) I earned my MSCS degree @ [KAUST](https://www.kaust.edu.sa/en) in 2023. ⚡  I am a big fan of Ultimate Frisbee.
