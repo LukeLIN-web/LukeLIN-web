@@ -23,4 +23,6 @@ Hi :)
 
 🌱 About me
 
-Hello & Welcome!:) I earned my MSCS degree @ [KAUST](https://www.kaust.edu.sa/en) in 2023. ⚡  I am a big fan of Ultimate Frisbee.
+Hello & Welcome!:) 
+I am a second-year PhD student at [Northeastern University](https://www.northeastern.edu/). My research interests lie on Embodied AI and Generative Model. I am currently exploring opportunities for a Spring/Summer 2026 internship.
+
