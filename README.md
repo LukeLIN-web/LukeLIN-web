@@ -24,5 +24,5 @@ Hi :)
 🌱 About me
 
 Hello & Welcome!:) 
-I am a second-year PhD student at [Northeastern University](https://www.northeastern.edu/). My research interests lie on Embodied AI and Generative Model. I am currently exploring opportunities for a Spring/Summer 2026 internship.
+
 
