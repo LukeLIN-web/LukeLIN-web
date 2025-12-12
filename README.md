@@ -23,6 +23,7 @@ Hi :)
 
 🌱 About me
 
-Hello & Welcome!:) 
+Hello & Welcome!:)   I am looking for Internship opportunities in GenAI field. 
+
 
 
